@@ -10,4 +10,8 @@ source /scriptsvenv/Scripts/activate
 /scriptsvenv/Scripts/activate.bat
 ```
 
+### Ident
+- Ajuda a identar codigo xaml para xamarin no visual studio
+- Use o numlock para identar
+
 
